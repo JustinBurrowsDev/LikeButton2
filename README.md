@@ -2,7 +2,7 @@
 
 ## Challenges I Faced?
 
-This is my first time using react, while I am familiar with JavaScript HTML and CSS to some agree I need to be cognizant of the differences And requirements and using this new library.
+This is my first time using react, while I am familiar with JavaScript HTML and CSS to some degree I need to be cognizant of the differences and requirements while learning to use this new library.
 
 ## How Did I Over Come Those Challenges? 
 
